@@ -1,6 +1,6 @@
 {
-  "name": "react-library-demo",
-  "version": "1.0.0",
+  "name": "@arranfw/react-library-demo",
+  "version": "1.0.1",
   "author": "arran woodruff - EYDS - CA",
   "license": "MIT",
   "main": "dist/index.js",
